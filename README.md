@@ -1,15 +1,13 @@
-### Hello! I am Arthur Botelho, self-thought developer learning something new everyday!
+## Hello! I am Arthur Botelho, self-thought developer learning something new everyday!
 
 <div align="center">
   <a href="https://github.com/ArthurBBotelho">
 <div>   
  
-  ### Git stats:
-<div>
-  <a href="https://github.com/ArthurBBotelho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurBBotelho&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBBotelho&layout=compact&langs_count=7&theme=rose_pine"/>
-</div>
+## Stats Available
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=ArthurBBotelho&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+
+<img width=360 src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBBotelho&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
   
 </div>
 <div style="display: inline_block"><br>
