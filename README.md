@@ -1,9 +1,10 @@
 # 💫 Arthur Botelho Desenvolvedor Web:
 Me encontro em um momento de transição de carreira para o desenvolvimento front-end, uma escolha que reflete minha busca por desafios e crescimento profissional. Minha formação em Arquitetura proporciona uma abordagem meticulosa ao adentrar no campo do desenvolvimento front-end, fundindo a paixão pelo design com minha habilidade em criar experiências digitais impactantes. Em busca de aprimoramento, tenho dedicado minhas noites ao estudo na plataforma de ensino online Coderhouse, um compromisso desafiador em paralelo ao meu emprego diurno. Estou determinado a dominar as tecnologias mais recentes e a evoluir constantemente minhas habilidades. Ansioso para contribuir com projetos inovadores, estou pronto para colaborar com equipes dinâmicas e enfrentar os desafios do universo da tecnologia.
+
 🔭 Aprendendo cada dia mais sobre tecnologia<br>👯 Sempre feliz em ajudar<br>🤝 Procuro trabalhar com equipes multidisciplinares<br>🌱 Descobrindo o universo dos dados com SQL<br>⚡ Arquitetura e Design fazem parte da minha vida
 
 
-## 🌐 Socials:
+## 🌐 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-botelho-8ab547206) 
 
 # 💻 Skills:
